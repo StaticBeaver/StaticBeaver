@@ -14,9 +14,8 @@ I design and build pragmatic desktop utilities, autonomous AI-agent workflows, a
 - **HypRadar**: A clinical analytics and proactive risk-detection engine built for chronic disease monitoring and primary care screening workflows.
 - **AHBS Startup & Bridge Engine**: High-reliability automation pipeline bridging legacy clinical software with modern local background services and barcode systems.
 
-#### 🤖 Artificial Intelligence & Multi-Agent Systems
+#### 🤖 Artificial Intelligence & Autonomous Systems
 - **[Cognitive Mesh Debater](https://github.com/StaticBeaver/cognitive-mesh-debater)**: A multi-agent dialectic reasoning engine where specialized AI personas engage in structured debate, counter-argument generation, and consensus synthesis.
-- **Citizen Astronomy Engine**: Experimental automated data ingestion and pattern detection pipeline for open-access astronomical surveys.
 
 ---
 
