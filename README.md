@@ -6,20 +6,20 @@ I design and build pragmatic desktop utilities, autonomous AI-agent workflows, a
 
 ---
 
-### 🚀 Projects & Ecosystem
+###  Projects & Ecosystem
 
-#### 🩺 HealthTech & Clinical Automation
+#### HealthTech & Clinical Automation
 - **[GapDetect](https://github.com/StaticBeaver/GapDetect)** *(Open Source)*: High-performance Windows calibration and measurement utility for TSPL thermal label printers using direct Win32 USB RAW communication without `libusb`.
 - **ClinicScriber** *(Active R&D)*: An ambient clinical documentation assistant designed to translate patient-physician dialogue into structured medical summaries and automated prescriptions.
 - **HypRadar**: A clinical analytics and proactive risk-detection engine built for chronic disease monitoring and primary care screening workflows.
 - **AHBS Startup & Bridge Engine**: High-reliability automation pipeline bridging legacy clinical software with modern local background services and barcode systems.
 
-#### 🤖 Artificial Intelligence & Autonomous Systems
+#### Artificial Intelligence & Autonomous Systems
 - **[Cognitive Mesh Debater](https://github.com/StaticBeaver/cognitive-mesh-debater)**: A multi-agent dialectic reasoning engine where specialized AI personas engage in structured debate, counter-argument generation, and consensus synthesis.
 
 ---
 
-#### 🛠️ Core Engineering Stack
+#### Core Engineering Stack
 - **Languages & Frameworks:** Python 3.x, PyQt / PySide, C/C++, SQLite.
 - **Systems & Hardware:** Windows Win32 API (`setupapi`, `kernel32` overlapped I/O), USB RAW (`GUID_DEVINTERFACE_USBPRINT`), Serial (RS-232), TSPL / ESC-POS printer protocols.
 - **Architecture:** Autonomous agents, local automation daemons, offline-first desktop tools.
